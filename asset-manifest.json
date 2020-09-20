@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gunslinger-ammo-tracker/static/css/main.7e141bea.chunk.css",
+    "main.js": "/gunslinger-ammo-tracker/static/js/main.638eda38.chunk.js",
+    "main.js.map": "/gunslinger-ammo-tracker/static/js/main.638eda38.chunk.js.map",
+    "runtime-main.js": "/gunslinger-ammo-tracker/static/js/runtime-main.6302b8f7.js",
+    "runtime-main.js.map": "/gunslinger-ammo-tracker/static/js/runtime-main.6302b8f7.js.map",
+    "static/js/2.507fcb27.chunk.js": "/gunslinger-ammo-tracker/static/js/2.507fcb27.chunk.js",
+    "static/js/2.507fcb27.chunk.js.map": "/gunslinger-ammo-tracker/static/js/2.507fcb27.chunk.js.map",
+    "index.html": "/gunslinger-ammo-tracker/index.html",
+    "precache-manifest.6bcc092d9d909b3418d7109a4008bc42.js": "/gunslinger-ammo-tracker/precache-manifest.6bcc092d9d909b3418d7109a4008bc42.js",
+    "service-worker.js": "/gunslinger-ammo-tracker/service-worker.js",
+    "static/css/main.7e141bea.chunk.css.map": "/gunslinger-ammo-tracker/static/css/main.7e141bea.chunk.css.map",
+    "static/js/2.507fcb27.chunk.js.LICENSE.txt": "/gunslinger-ammo-tracker/static/js/2.507fcb27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6302b8f7.js",
+    "static/js/2.507fcb27.chunk.js",
+    "static/css/main.7e141bea.chunk.css",
+    "static/js/main.638eda38.chunk.js"
+  ]
+}
