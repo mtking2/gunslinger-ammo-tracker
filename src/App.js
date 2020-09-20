@@ -1,8 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Tracker from './components/Tracker';
-import Timer from './components/Timer';
+// import Timer from './components/Timer';
 
 
 function App() {
